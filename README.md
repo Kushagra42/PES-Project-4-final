@@ -3,7 +3,7 @@
 #README
 
 
-# Created by : Vaidehi Salway
+# Created by : Vaidehi Salway & Kushagra Pandey
 # Date       : 04-Nov-2019
 
 # References: Inspiration was taekn from the mentioned website for writing the code to convert the enum values to string 
