@@ -1,0 +1,3 @@
+TESTING_CONDITIONS.c:9:9:Power_On_Reset_Test	24	static
+TESTING_CONDITIONS.c:21:9:Alert	24	static
+TESTING_CONDITIONS.c:36:6:Disconnect	8	static

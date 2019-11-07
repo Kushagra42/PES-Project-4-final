@@ -1,0 +1,2 @@
+Delay_Function.c:22:6:Delay_Time	24	static
+Delay_Function.c:31:5:TimeOut_Counter	24	static

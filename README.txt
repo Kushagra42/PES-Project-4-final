@@ -1,5 +1,3 @@
-# PES-Project-4-final
-
 #README
 
 
@@ -41,7 +39,7 @@
 # Set Cunter value to either 3 or 4 in Table_State_Machine.h #define Timer_count2
 # Change the slave register address and configure register in I2C_Init.h
 # Change #define level value in Logger.h to select between Test mode (value 0), Debug mode(value 1), Status mode (value 2)
-#
+# 
 #
 # Project Execution:
 # The program runs on KL25Z Freedom board

@@ -1,0 +1,10 @@
+Unit_Testing.c:10:6:Power_Test	24	static
+Unit_Testing.c:28:6:Switch_Test	16	static
+Unit_Testing.c:48:6:Test_Counter	16	static
+Unit_Testing.c:70:6:Test_Enum	16	static
+Unit_Testing.c:87:6:Test_TableColumn	16	static
+Unit_Testing.c:107:6:Test_Col_Range	16	static
+Unit_Testing.c:125:6:Test_Array_Range	16	static
+Unit_Testing.c:142:6:Test_Avg_Temp	24	static
+Unit_Testing.c:159:6:Test_Event_Set	16	static
+Unit_Testing.c:185:6:Test_Log_Status	24	static

@@ -1,0 +1,2 @@
+TMP102.c:8:10:Temperature_Reading	8	static
+TMP102.c:19:9:Calculate_Average_Temperature	16	static

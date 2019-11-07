@@ -1,0 +1,10 @@
+uCUnit.c:12:6:Power_Test	24	static
+uCUnit.c:30:6:Switch_Test	16	static
+uCUnit.c:49:6:Test_Counter	16	static
+uCUnit.c:71:6:Test_Enum	16	static
+uCUnit.c:87:6:Test_TableColumn	16	static
+uCUnit.c:106:6:Test_Col_Range	16	static
+uCUnit.c:123:6:Test_Array_Range	16	static
+uCUnit.c:140:6:Test_Avg_Temp	24	static
+uCUnit.c:159:6:Test_Event_Set	16	static
+uCUnit.c:184:6:Test_Log_Status	24	static
