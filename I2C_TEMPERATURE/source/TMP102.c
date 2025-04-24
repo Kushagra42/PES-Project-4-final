@@ -15,7 +15,7 @@ uint8_t  Temperature_Reading()
 	    return Temperature_Data;
 
 }
-
+//this calculates the average temperature
 uint8_t Calculate_Average_Temperature()
 {
 		int8_t Current_Temperature=Temperature_Reading();//Current_Temperature
